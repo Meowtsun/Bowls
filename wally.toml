@@ -1,4 +1,4 @@
 [package]
-name = "Meowtsun/bowl"
+name = "meowtsun/bowl"
 description = "Modular status system for Luau games"
 version = "0.0.1"
