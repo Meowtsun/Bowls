@@ -1,1 +1,4 @@
-
+[package]
+name = "Meowtsun/bowl"
+description = "Modular status system for Luau games"
+version = "0.0.1"
