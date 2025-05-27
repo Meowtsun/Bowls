@@ -1,1 +1,12 @@
-
+{
+  "name": "bowl",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Bowl": {
+        "$path": "src/Bowl"
+      }
+    }
+  }
+}
