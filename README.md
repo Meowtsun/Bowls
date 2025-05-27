@@ -1,3 +1,3 @@
 # Bowls
 
-```Bowl = 'meowtsun/bowl@0.0.5'```
+```Bowl = "meowtsun/bowl@0.0.5"```
