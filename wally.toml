@@ -2,3 +2,4 @@
 name = "meowtsun/bowl"
 description = "Modular status system for Luau games"
 version = "0.0.1"
+registry = "https://github.com/UpliftGames/wally-index"
